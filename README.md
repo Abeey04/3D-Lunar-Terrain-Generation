@@ -133,12 +133,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 - NASA's Lunar Reconnaissance Orbiter mission for high-resolution lunar imagery and DEMs
 - The authors of "A Generative Adversarial Network for Pixel-Scale Lunar DEM Generation from High-Resolution Monocular Imagery and Low-Resolution DEM" for their innovative approach to DEM upscaling
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/lunar-terrain-generation](https://github.com/yourusername/lunar-terrain-generation)
